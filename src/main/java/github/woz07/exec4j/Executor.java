@@ -14,7 +14,7 @@ import java.util.List;
 
 public class Executor {
     /**
-     *
+     * This is the method used to execute different files from within your project
      * @param command The command you would like to execute
      * @return Returns the end result code, 0 for success, >0 for issue
      * @throws IOException Thrown because of builder.start()
